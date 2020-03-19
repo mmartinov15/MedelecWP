@@ -1,0 +1,2 @@
+# MedelecWP
+Custom WP theme
